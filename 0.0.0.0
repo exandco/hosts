@@ -1,2 +1,9 @@
 0.0.0.0 wco.sunnyportal.com
 0.0.0.0 update.sunnyportal.de
+0.0.0.0 ntp.sunny-portal.com
+0.0.0.0 ping.archlinux.org
+0.0.0.0 safebrowsing.brave.com
+0.0.0.0 variations.brave.com
+0.0.0.0 go-updater.brave.com
+0.0.0.0 componentupdater.brave.com
+0.0.0.0 brave-core-ext.s3.brave.com
